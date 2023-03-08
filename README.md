@@ -1,6 +1,9 @@
 # Social Link Prediction with Graph Mining and Random Forest
 
 This project uses graph mining techniques and the Random Forest algorithm to predict whether a link will exist between two nodes in a social network. The features used for prediction are extracted using various graph mining techniques such as node degree, betweenness centrality, and eigenvector centrality. The dataset used for this project is the Facebook Social Circles dataset, which consists of ego networks of Facebook users.
+
+## Deployment link
+`https://lordvarun23-sociallinkprediction-main-bds2rs.streamlit.app/ `
 ## Features
 
 This project includes the following features:
